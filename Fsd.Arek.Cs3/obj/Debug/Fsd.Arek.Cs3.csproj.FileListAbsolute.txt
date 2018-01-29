@@ -1,0 +1,6 @@
+D:\CodeSchool\Project\src\pawelak-arek\Fsd.Pawelak.Cs\Fsd.Arek.Cs3\bin\Debug\Fsd.Arek.Cs3.exe.config
+D:\CodeSchool\Project\src\pawelak-arek\Fsd.Pawelak.Cs\Fsd.Arek.Cs3\bin\Debug\Fsd.Arek.Cs3.exe
+D:\CodeSchool\Project\src\pawelak-arek\Fsd.Pawelak.Cs\Fsd.Arek.Cs3\bin\Debug\Fsd.Arek.Cs3.pdb
+D:\CodeSchool\Project\src\pawelak-arek\Fsd.Pawelak.Cs\Fsd.Arek.Cs3\obj\Debug\Fsd.Arek.Cs3.csproj.CoreCompileInputs.cache
+D:\CodeSchool\Project\src\pawelak-arek\Fsd.Pawelak.Cs\Fsd.Arek.Cs3\obj\Debug\Fsd.Arek.Cs3.exe
+D:\CodeSchool\Project\src\pawelak-arek\Fsd.Pawelak.Cs\Fsd.Arek.Cs3\obj\Debug\Fsd.Arek.Cs3.pdb
